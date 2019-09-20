@@ -1,0 +1,3 @@
+[submodule "app/songit"]
+	path = app/songit
+	url = git@github.com:jxshunqiziran/songit.git
